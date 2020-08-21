@@ -14,6 +14,14 @@ Instagram Bot project using Selenium (Python)
   Imagine how much time you would spend if you had to copy and paste each piece of information you need from a website. Not only would this take hours but it would drain all your energy. Luckily, Instabot automates most of the associated processes.
   This automation process can be done on any website where the user has to do a repeated work of extracing information
   
+ ## Features of InstaBot
+  * Signing In
+  * Liking posts / Unliking Posts
+  * Searching and opening pages
+  * Following and unfollowing pages
+  * Extracting Followers of pages
+  * Watching Status
+  
  ## Tools and Technologies
  
   * Selenium for automation
